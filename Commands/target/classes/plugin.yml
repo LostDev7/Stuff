@@ -1,0 +1,9 @@
+name: CommandsPlugin
+version: 1.0-SNAPSHOT
+main: me.osireon.commandsplugin.CommandsPlugin
+api-version: 1.13
+commands:
+  speed:
+    description: speed.
+  jump:
+    description: jump.

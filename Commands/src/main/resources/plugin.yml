@@ -1,0 +1,9 @@
+name: CommandsPlugin
+version: ${project.version}
+main: me.osireon.commandsplugin.CommandsPlugin
+api-version: 1.13
+commands:
+  speed:
+    description: speed.
+  jump:
+    description: jump.
