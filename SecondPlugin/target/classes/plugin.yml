@@ -1,0 +1,5 @@
+name: SecondPlugin
+version: 1.0-SNAPSHOT
+main: me.osireon.secondplugin.SecondPlugin
+api-version: 1.13
+description: yup
