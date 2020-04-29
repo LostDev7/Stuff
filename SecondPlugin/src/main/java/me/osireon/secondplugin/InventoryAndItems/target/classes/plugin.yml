@@ -1,0 +1,8 @@
+name: InventoryAndItems
+version: 1.0-SNAPSHOT
+main: me.osireon.inventoryanditems.InventoryAndItems
+api-version: 1.13
+commands:
+  Vault:
+    description: Ooga
+    usage: /command>

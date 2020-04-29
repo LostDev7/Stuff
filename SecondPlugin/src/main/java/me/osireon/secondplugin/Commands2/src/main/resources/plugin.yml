@@ -1,0 +1,14 @@
+name: Commands2
+version: ${project.version}
+main: me.osireon.commands2.Commands2
+api-version: 1.13
+commands:
+  GodMode:
+    Description: No longer killed
+    aliases: [god, invincible]
+  UnGod:
+    Description: You can now be killed
+  SendMessage:
+    Description: ooga booga
+  Kill:
+    Description: kill a nigga
