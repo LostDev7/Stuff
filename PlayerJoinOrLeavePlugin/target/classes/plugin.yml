@@ -1,0 +1,5 @@
+name: PlayerJoinAndLeavePlugin
+version: 1.0-SNAPSHOT
+main: me.osireon.playerjoinandleaveplugin.PlayerJoinAndLeavePlugin
+api-version: 1.13
+description: whenever player joins or leaves messages in chat
